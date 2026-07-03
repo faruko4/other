@@ -1,1 +1,9 @@
+I  have only 5 month from now and i have to learn riscv asm anyhow form now ....
+so the book that are given in the riscv main website is a garbage 
 
+TASK_1 -> Finish all  about riscv asm  form "Project-F" ...this is extremely powerfull for me ...and this is the only way now 
+TASK_2 -> https://shakti.org.in/docs/risc-v-asm-manual.pdf and this .....Undoubtedly this is usefull 
+TASK_3 ->https://www.cse.iitd.ac.in/~srsarangi/archbook/chapters/simplerisc.pdf now this will cover the basic again 
+TASK_4 -> https://www.cse.iitd.ac.in/~srsarangi/archbook/chapters/riscv.pdf this also a lot of riscv example  
+TASK_5 -> https://riscv-programming.org/book.html now the main book of riscv asm should looks  famalier 
+TASK_6 -> the riscv user level spec 
